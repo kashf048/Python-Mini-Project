@@ -96,7 +96,7 @@ class DigitalClock(QWidget):
 
         self.time_label.setStyleSheet("font-size: 150px;"
                                     #   "font-family: Arial;"
-                                      "color: hsl(111, 100%, 50%);")
+                                      "color: hsl(349, 71%, 36%);")
         self.setStyleSheet("background-color: black;")
 
         font_id = QFontDatabase.addApplicationFont("DS-DIGIT.TTF")
